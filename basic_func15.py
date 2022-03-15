@@ -1,3 +1,3 @@
 # Create a function called main.
-# Create function arguments a.
-# Return the module of a.
+# Create function arguments a and b.
+# Return the modulus of a and b.
